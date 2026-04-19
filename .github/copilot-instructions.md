@@ -13,7 +13,7 @@ As of this writing, the repository is in its early stages and does not yet conta
 ├── .github/
 │   └── copilot-instructions.md   # This file — agent onboarding guide
 ├── LICENSE                        # MIT License
-└── README.md                     # Project readme (minimal)
+└── README.md                      # Project readme (minimal)
 ```
 
 ## Getting Started
